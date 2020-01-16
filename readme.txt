@@ -39,8 +39,9 @@ Collect information with bets site and let users make bets.
 = 1.0.0 =
 * Module created
 * Setting page created for Rapid API credits
+* Bet post type created
 
 == Upgrade Notice ==
 
 = 1.0.0 =
-Module created, setting page created for Rapid API credits
+Module created, setting page created for Rapid API credits, bet post type created

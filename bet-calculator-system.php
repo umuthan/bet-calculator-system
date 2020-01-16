@@ -22,3 +22,4 @@
  */
 
 include('includes/settings_page.php');
+include('includes/post_type.php');
